@@ -1,6 +1,6 @@
 {
   "identity": {
-    "file_name": "identity.json"
+    "file_name": "custom/identity.json"
   },
   "alpaca_en_demo": {
     "file_name": "alpaca_en_demo.json"
@@ -563,7 +563,7 @@
     "folder": "python"
   },
   "data_combined": {
-    "file_name": "../../data_combined.json",
+    "file_name": "custom/data_combined.json",
     "formatting": "sharegpt",
     "columns": {
       "messages": "conversations"
