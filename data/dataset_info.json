@@ -561,5 +561,12 @@
       "prompt": "content"
     },
     "folder": "python"
+  },
+  "data_combined": {
+    "file_name": "../../data_combined.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations"
+    }
   }
 }
