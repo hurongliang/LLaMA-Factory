@@ -562,8 +562,8 @@
     },
     "folder": "python"
   },
-  "all_combined": {
-    "file_name": "all_combined.json",
+  "aixiaomai_all_combined": {
+    "file_name": "aixiaomai/all_combined.json",
     "formatting": "sharegpt",
     "columns": {
       "messages": "conversations",
