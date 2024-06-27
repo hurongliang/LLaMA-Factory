@@ -566,7 +566,8 @@
     "file_name": "all_combined.json",
     "formatting": "sharegpt",
     "columns": {
-      "messages": "conversations"
+      "messages": "conversations",
+      "tools": "tools"
     }
   }
 }
