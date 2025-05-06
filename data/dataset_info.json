@@ -704,5 +704,53 @@
       "prompt": "content"
     },
     "folder": "python"
+  },
+  "aixiaomai_f1_one_turn": {
+    "file_name": "aixiaomai/f1_one_turn.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations",
+      "tools": "tools"
+    }
+  },
+  "aixiaomai_f3_one_turn": {
+    "file_name": "aixiaomai/f3_one_turn.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations",
+      "tools": "tools"
+    }
+  },
+  "aixiaomai_f4_one_turn": {
+    "file_name": "aixiaomai/f4_one_turn.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations",
+      "tools": "tools"
+    }
+  },
+  "aixiaomai_f5_one_turn": {
+    "file_name": "aixiaomai/f5_one_turn.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations",
+      "tools": "tools"
+    }
+  },
+  "aixiaomai_gpt_one_turn": {
+    "file_name": "aixiaomai/gpt_one_turn.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations",
+      "tools": "tools"
+    }
+  },
+  "aixiaomai_chat_history": {
+    "file_name": "aixiaomai/chat_history.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations",
+      "tools": "tools"
+    }
   }
 }
