@@ -712,5 +712,13 @@
       "messages": "conversations",
       "tools": "tools"
     }
+  },
+  "aixiaomai_identify": {
+    "file_name": "aixiaomai/gpt_identify.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations",
+      "tools": "tools"
+    }
   }
 }
